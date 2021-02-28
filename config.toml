@@ -1,0 +1,12 @@
+Title = "Amethyst config"
+
+[IRC]
+NickName = "Amethyst"
+RealName = "Amethyst"
+Server   = "irc.darkmyst.org"
+Port     = 6667
+ChannelDice = "#amethyst-test"
+ChannelOOC = "#broken_sky_ooc"
+
+[Bot]
+Prefix = "!"
